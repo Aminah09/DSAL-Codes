@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1639909495 source:c:\users\amina\desktop\cpp_learning\assignment 10\a10.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1639222068 source:c:\users\amina\desktop\cpp_learning\assignment 4\a4.cpp
+	<iostream>
+	"stackh.h"
+
+1639230668 c:\users\amina\desktop\cpp_learning\assignment 4\stackh.h
+	<iostream>
+
