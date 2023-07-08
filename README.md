@@ -42,5 +42,6 @@ b) Using Prim’s algorithm.<br>
 ### 8. Graph: Shortest Path Algorithm -- CO1, CO2, CO3, CO5<br>
 Represent a graph of city using adjacency matrix /adjacency list. Nodes should represent the various landmarks and links should represent the distance between them. Find the shortest path using Dijkstra's algorithm from single source to all destination.<br>
 ### 9. Heap Sort -- CO1, CO2, CO4 <br>
-Implement Heap sort to sort given set of values using max or min heap. 10. FILE Handling -- CO1, CO3, CO5
+Implement Heap sort to sort given set of values using max or min heap.<br> 
+### 10. FILE Handling -- CO1, CO3, CO5<br>
 Department maintains student’s database. The file contains roll number, name, division and address. Write a program to create a sequential file to store and maintain student data. It should allow the user to add, delete information of student. Display information of particular student. If record of student does not exist an appropriate message is displayed. If student record is found it should display the student details.
